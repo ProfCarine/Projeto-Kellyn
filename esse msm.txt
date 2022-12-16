@@ -1,0 +1,33 @@
+<!DOCTYPEhtml>
+
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Aproxime-se de Deus</title>
+<link rel="stylesheet" href= "style.css">
+
+</head>
+
+<body>
+
+<h1 style="text-align: center">livros,apps e filmes que te aproximaram de Deus</h1>
+<img src= "livros.jpg">
+
+<img 
+    max-width:250px;
+    width: auto>
+
+<p>
+
+</p>*Todos os livros, apps e filmes que aqui listarmos são uma ótima
+ opção para quem quer se aprofundar um pouco mais na 
+cristã e para quem busca inspiração para novos dia</p>
+
+<p>s</p>
+
+<p>
+
+</body>

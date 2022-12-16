@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Barbearia Alura</title>
+        <link rel="stylesheet" href= "style1.css">
+	</head>
+	<body>
+
+<title>LIVROS</title>
+
+<h1 style="text-align: center">CRISTIANISMO</h1>
+
+<h2> 1-Ate que nada mais importe! </h2> 
+
+<img src= "3agrinho3.jpg">
+
+<p>Nestas páginas, seremos confrontados pela verdade de que não 
+estamos aqui para viver uma vida efêmera e alucinada, correndo 
+atrás de autoimagem e performances. Estamos indo além dos nossos 
+próprios limites em uma espiritualidade rasa, de longos e "inexplicáveis" jejuns,
+ lendo a Bíblia repetidas vezes sem entendimento, realizando intermináveis 
+campanhas apenas pelo número, apenas por uma simples meta proposta. Deus espera
+ que o busquemos com todo o nosso coração, que o amemos de todo o nosso coração, 
+de toda nossa alma até que o nosso 
+relacionamento com ele seja a mais absoluta prioridade: Até que nada mais impote! 
+</p>
+
+
+<h2> 2-Cristianismo puro e simples </h2> 
+
+<img src= "cwlewis2.jpg"  height="500" width="350">
+
+
+<p>O QUE PODE SER MELHOR DO QUE ESTAR ON-LINE COM O CRIADOR O TEMPO TODO?SE VOCÊ JÁ ESQUECEU 
+o celular em casa ou teve de ir para algum lugar sem sinal de internet, conhece bem a 
+estranha de ficar sem conexão com seus amigos e de se achar por fora de tudo o que está 
+rolando. Agora imagine a oportunidade de estar em contato permanente (mesmo sem WiFi!)
+ com alguém que sabe tudo o que acontece com você e que tem a resposta certa para todas
+ as suas dúvidas. Demais, não é?Pois é isso que você vai encontrar neste 
+livro do consagrado autor Max Lucado </p>
+
+</body>
